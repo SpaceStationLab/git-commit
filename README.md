@@ -116,5 +116,5 @@ Feat: 신규 RFID 인식 기능 추가(#123)
 ### 예시 
 
 <p align="center">
-  <img src="https://blog.kakaocdn.net/dn/dtCL21/btsklmCgFie/QDPW3LejAG0htEsJ3N628k/img.png" height="800">
+  <img src="https://blog.kakaocdn.net/dn/dtCL21/btsklmCgFie/QDPW3LejAG0htEsJ3N628k/img.png" height="600">
 </p>
