@@ -103,7 +103,7 @@ Feat: 신규 RFID 인식 기능 추가(#123)
 해결: #123
 ```
 
-### 결론 
+## 결론 
   
 커밋 메세지를 잘 작성하는 것은 협업에서 기본적인 습관입니다.
 
@@ -112,8 +112,13 @@ Feat: 신규 RFID 인식 기능 추가(#123)
 
 팀에서 함께 위와 같은 컨벤션으로 일할 수 있다면 히스토리를 파악하고 코드 리뷰도 짧은 시간 내에 해결할 수 있을 것 같다.
   
+## Ref
 
-### 예시 
+- [좋은 git commit 메세지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [Commit message 줄바꿈](https://guuumi.tistory.com/128)
+  
+  
+## 예시 
 
 <p align="center">
   <img src="https://blog.kakaocdn.net/dn/dtCL21/btsklmCgFie/QDPW3LejAG0htEsJ3N628k/img.png" height="600">
