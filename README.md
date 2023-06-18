@@ -4,7 +4,7 @@
 </p>
 
 
-## Github
+## Github / [English version read me](https://github.com/DoyoungDev/git-commit/blob/main/EnglishVersion.md)
 
 지금까지 깃허브(github)는 프로젝트 코드나 블로그 글을 작성하는 혼자만의 공간이었습니다.
 
