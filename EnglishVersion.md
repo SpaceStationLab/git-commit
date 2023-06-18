@@ -4,7 +4,7 @@
 </p>
 
 
-## Github
+## Github / [Korean version of readme](https://github.com/DoyoungDev/git-commit/blob/main/README.md)
 
 Until now, github has been a space for one person to write project code or blog posts.
 
