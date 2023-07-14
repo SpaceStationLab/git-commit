@@ -123,3 +123,10 @@ If I can work with the above convention in the team, I think I can figure out th
 <p align="center">
   <img src="https://blog.kakaocdn.net/dn/dtCL21/btsklmCgFie/QDPW3LejAG0htEsJ3N628k/img.png" height="600">
 </p>
+
+## Repository Naming Conventio
+
+1. use lower case
+2. use dashes
+3. be specific
+4. be consistent
