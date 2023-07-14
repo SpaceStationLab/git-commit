@@ -123,3 +123,11 @@ Feat: 신규 RFID 인식 기능 추가(#123)
 <p align="center">
   <img src="https://blog.kakaocdn.net/dn/dtCL21/btsklmCgFie/QDPW3LejAG0htEsJ3N628k/img.png" height="600">
 </p>
+
+
+## Repository Naming Conventio
+
+1. 소문자를 사용해라 (use lower case)
+2. 대시(-)를 사용해라 (use dashes)
+3. 명확하게 작성해라 (be specific)
+4. 일관성있게 작성해라 (be consistent)
